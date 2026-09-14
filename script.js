@@ -10,17 +10,12 @@ const tracks = [
   {
     title: "Sunny's Gatcha Day Song (8/31/2026)",
     file: "audio/Sunnys-Song-(nom-nom-nom).mp3",
-    note: "Working demo — unrequited-love song, verse in Em–Am–G, pre-chorus in G–Am–Em–C."
+    note: "Sunny's song for his Gatcha day! Happy one year buddy."
   },
   {
-    title: "Track Two",
-    file: "audio/02-track-two.mp3",
-    note: "Replace this with your next song's title and a line about it."
-  },
-  {
-    title: "Track Three",
-    file: "audio/03-track-three.mp3",
-    note: "Add as many of these as you like — the player scales automatically."
+    title: "From Austin - Zach Bryan Cover",
+    file: "Austin-Cover-Zach-Bryan.mp3",
+    note: "Cover of Zach Bryan."
   }
 ];
 

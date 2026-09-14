@@ -8,15 +8,15 @@
 // ---------------------------------------------------------------------------
 const tracks = [
   {
-    title: "Sunny's Gatcha Day Song (8/31/2026)",
-    file: "audio/Sunnys-Song-(nom-nom-nom).mp3",
-    note: "Sunny's song for his Gatcha day! Happy one year buddy."
-  },
-  {
-    title: "From Austin - Zach Bryan Cover",
-    file: "Austin-Cover-Zach-Bryan.mp3",
-    note: "Cover of Zach Bryan."
-  }
+  title: "Sunny's Gatcha Day Song (8/31/2026)",
+  file: "audio/Sunnys-Song-(nom-nom-nom).mp3",
+  note: "Sunny's song for his Gatcha day, happy one year buddy!"
+},
+{
+  title: "From Austin - Zach Bryan Cover",
+  file: "audio/Austin-Cover-Zach-Bryan.mp3",
+  note: "Just a fun cover."
+}
 ];
 
 // ---------------------------------------------------------------------------

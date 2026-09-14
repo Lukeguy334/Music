@@ -8,8 +8,8 @@
 // ---------------------------------------------------------------------------
 const tracks = [
   {
-    title: "Untitled (Em–Am–G)",
-    file: "audio/01-untitled-em-am-g.mp3",
+    title: "Sunny's Gatcha Day Song (8/31/2026)",
+    file: "audio/Sunnys-Song-(nom-nom-nom).mp3",
     note: "Working demo — unrequited-love song, verse in Em–Am–G, pre-chorus in G–Am–Em–C."
   },
   {
